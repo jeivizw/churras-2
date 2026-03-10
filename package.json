@@ -17,5 +17,13 @@
   "devDependencies": {
     "nodemon": "^3.1.14"
   },
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeivizw/churras-2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jeivizw/churras-2/issues"
+  },
+  "homepage": "https://github.com/jeivizw/churras-2#readme"
 }
